@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "624187882358",
+    "firebase_url": "https://calculetorassignment.firebaseio.com",
+    "project_id": "calculetorassignment",
+    "storage_bucket": "calculetorassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624187882358:android:c1df369aeea9ace1",
+        "android_client_info": {
+          "package_name": "com.example.ckbur.calculetorassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624187882358-kp1np4d0tpocca2mm2bfou9f3d408ehj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ckbur.calculetorassignment",
+            "certificate_hash": "27f15ef1fc04ba27ec330ffdaf7009dd1d484649"
+          }
+        },
+        {
+          "client_id": "624187882358-dr808jube8dgtou204fqcuqgjkvie5c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEM2jQ5xlHzWmm2jA6GqheJ-4xe7tB20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624187882358-dr808jube8dgtou204fqcuqgjkvie5c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
